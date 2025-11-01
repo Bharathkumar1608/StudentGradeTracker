@@ -27,7 +27,6 @@ class Studentgradetracker {
             }
         } while (choice != 5);
 
-        sc.close();
     }
 
     static void addStudent() {
